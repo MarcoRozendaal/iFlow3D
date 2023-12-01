@@ -2,7 +2,8 @@
 Three dimensional idealised model for estuarine dynamics.
 
 Example of tidal ellipses in the Scheldt estuary:
-![Screenshot](docs/images/tidal ellipses bathymetry.png)
+![tidal ellipses bathymetry](https://github.com/MarcoRozendaal/iFlow3D/assets/62541335/8b891f32-1328-4cca-a272-14b4c28f4515)
+
 
 
 
